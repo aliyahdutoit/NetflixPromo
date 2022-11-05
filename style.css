@@ -1,0 +1,14 @@
+body {
+    background-image: url("background.jpg");
+    background-repeat: none;
+    background-size: contain;
+background-position-x: 100%;
+}
+
+ul.a {
+list-style-position: y;
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
